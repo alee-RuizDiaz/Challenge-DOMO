@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430.85 430.85">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b7b7b7;
+      }
+
+      .cls-2 {
+        fill: #d8d8d8;
+      }
+
+      .cls-3 {
+        fill: #dedfe0;
+      }
+
+      .cls-4 {
+        fill: #a0a0a0;
+      }
+
+      .cls-5 {
+        fill: #282828;
+      }
+
+      .cls-6 {
+        fill: #828282;
+      }
+
+      .cls-7 {
+        fill: #f9f9f9;
+      }
+
+      .cls-8 {
+        fill: #494949;
+      }
+
+      .cls-9 {
+        fill: #efefef;
+      }
+
+      .cls-10 {
+        fill: #c6c6c6;
+      }
+
+      .cls-11 {
+        fill: #686868;
+      }
+    </style>
+  </defs>
+  <g id="Objects">
+    <g>
+      <rect x="206.11" width="18.63" height="73.68"/>
+      <rect class="cls-5" x="116.82" y="23.93" width="18.63" height="73.68" transform="translate(-13.48 71.21) rotate(-30)"/>
+      <rect class="cls-8" x="51.45" y="89.29" width="18.63" height="73.68" transform="translate(-78.85 115.69) rotate(-60)"/>
+      <rect class="cls-11" x="27.52" y="178.59" width="18.63" height="73.68" transform="translate(-178.59 252.26) rotate(-90)"/>
+      <rect class="cls-6" x="51.45" y="267.88" width="18.63" height="73.68" transform="translate(-172.75 509.7) rotate(-120)"/>
+      <rect class="cls-4" x="116.82" y="333.25" width="18.63" height="73.68" transform="translate(50.32 753.65) rotate(-150)"/>
+      <rect class="cls-1" x="206.11" y="357.17" width="18.63" height="73.68" transform="translate(430.85 788.02) rotate(-180)"/>
+      <rect class="cls-10" x="295.4" y="333.25" width="18.63" height="73.68" transform="translate(753.65 538.23) rotate(150)"/>
+      <rect class="cls-2" x="360.77" y="267.88" width="18.63" height="73.68" transform="translate(819.02 136.57) rotate(120)"/>
+      <rect class="cls-3" x="384.69" y="178.59" width="18.63" height="73.68" transform="translate(609.43 -178.59) rotate(90)"/>
+      <rect class="cls-9" x="360.77" y="89.29" width="18.63" height="73.68" transform="translate(294.28 -257.44) rotate(60)"/>
+      <rect class="cls-7" x="295.4" y="23.93" width="18.63" height="73.68" transform="translate(71.21 -144.22) rotate(30)"/>
+    </g>
+  </g>
+</svg>
